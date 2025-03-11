@@ -1,5 +1,5 @@
 import numpy as np
-from cofactor.adjugate import is_equal_adjugate
+from adjugate.adjugate import is_equal_adjugate
 
 
 def test_matrix():
