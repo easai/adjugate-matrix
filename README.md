@@ -7,3 +7,4 @@ In general,
 ![adj(A^k)=adj(A)^k](https://github.com/easai/cofactor/blob/main/formula.png)
 
 
+[In Chinese](https://github.com/easai/cofactor/blob/main/README-zh.md)
